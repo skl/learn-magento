@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Skl_Configviewer>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Skl_Configviewer>
+    </modules>
+</config>

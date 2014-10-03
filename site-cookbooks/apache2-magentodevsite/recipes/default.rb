@@ -12,7 +12,7 @@ web_app "magento.dev" do
     docroot "/vagrant/htdocs"
 end
 
-%w{libapache2-mod-php5 php5-mcrypt}.each do |pkg|
+%w{libapache2-mod-php5 php5-mcrypt php5-curl php5-gd php5-mysql}.each do |pkg|
     package pkg do
         action :install
     end
