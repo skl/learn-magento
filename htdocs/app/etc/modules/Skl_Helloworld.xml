@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Skl_Helloworld>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Skl_Helloworld>
+    </modules>
+</config>

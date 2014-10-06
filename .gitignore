@@ -1,6 +1,7 @@
 .vagrant
 cookbooks
 tmp
+tags
 
 # OSX.gitignore
 .DS_Store
