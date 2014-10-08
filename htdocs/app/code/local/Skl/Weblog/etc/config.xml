@@ -1,11 +1,20 @@
 <config>
     <modules>
         <Skl_Weblog>
-            <version>0.1.0</version>
+            <version>0.2.0</version>
         </Skl_Weblog>
     </modules>
 
     <global>
+        <resources>
+            <weblog_setup>
+                <setup>
+                    <module>Skl_Weblog</module>
+                    <class>Skl_Weblog_Model_Resource_Setup</class>
+                </setup>
+            </weblog_setup>
+        </resources>
+
         <models>
             <weblog>
                 <class>Skl_Weblog_Model</class>
