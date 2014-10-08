@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Skl_Weblog>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Skl_Weblog>
+    </modules>
+</config>
